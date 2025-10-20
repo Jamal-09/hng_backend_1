@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-app.get("/", (req, res) => res.send("Welcome to the string anlyzer API"));
+app.get("/", (req, res) => res.send("Welcome to the string analyzer API"));
 
 app.use("/strings", stringRoutes);
 
