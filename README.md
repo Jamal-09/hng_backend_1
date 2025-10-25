@@ -80,6 +80,9 @@ Once the server is running, you can interact with the API using a tool like `cur
 
 ## API Documentation
 
+## Live demo
+- https://hngbackend1-production-af6b.up.railway.app/
+
 ### Base URL
 
 `http://localhost:4000` (or your configured `PORT`)
